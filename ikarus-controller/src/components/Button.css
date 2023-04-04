@@ -1,0 +1,11 @@
+.ui-button {
+	background-color: transparent;
+	background-image: url("../../public/ui/button.png");
+	background-position: center;
+	background-size: cover;
+	border: none;
+	font-size: 22px;
+	height: 53px;
+	padding: 5px 0 0 0;
+	width: 100px;
+}
